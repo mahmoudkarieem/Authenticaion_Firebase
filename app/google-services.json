@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275333758044",
+    "project_id": "authentication-e757e",
+    "storage_bucket": "authentication-e757e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275333758044:android:56f6c8f83f325de8303a99",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-NbX777sCL51cKQubSRJhaZwlImctAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
