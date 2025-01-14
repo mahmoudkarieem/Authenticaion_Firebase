@@ -94,8 +94,6 @@ Download the google-services.json file and place it in the app directory of the 
 
 Build and run the app on an emulator or physical device.
 
-Contribution 🤝
-Contributions are welcome! If you find any issues or want to enhance the project, feel free to open an issue or submit a pull request.
+https://github.com/user-attachments/assets/925fffd5-872d-45a0-8dce-c44269b9f6b7
 
-License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
+
