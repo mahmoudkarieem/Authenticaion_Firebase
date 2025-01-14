@@ -1,7 +1,11 @@
 Android Compose Canvas App with Firebase Authentication 🚀
+
+
 This is an Android application built using Jetpack Compose, MVVM architecture, and Firebase Authentication. The app demonstrates modern Android development practices, including custom UI components using Compose Canvas and secure user authentication with Firebase.
 
 Features ✨
+
+
 Jetpack Compose Canvas: Custom UI components and animations created using Compose's Canvas API.
 
 Firebase Authentication: Secure user authentication with Sign Up, Sign In, and Sign Out functionalities.
@@ -12,6 +16,8 @@ Kotlin: Written entirely in Kotlin, leveraging its modern features for concise a
 
 
 Technologies Used 🛠️
+
+
 Jetpack Compose: For building the UI.
 
 Firebase: For user authentication.
@@ -23,6 +29,8 @@ Kotlin Coroutines: For asynchronous programming.
 LiveData/StateFlow: For observable data handling.
 
 Getting Started 🚀
+
+
 To run this project locally, follow these steps:
 
 
